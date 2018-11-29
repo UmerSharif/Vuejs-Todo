@@ -1,5 +1,10 @@
 # vuejs-todo
 
+
+
+This is a vuejs to do app with Vuex. It has all the basic CRUD
+functionalities with very good design.
+
 ## Project setup
 ```
 npm install
