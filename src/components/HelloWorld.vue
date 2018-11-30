@@ -67,7 +67,7 @@
         },
 
         methods: {
-
+			// to switch the check button on and off and assign color by checking this condition
             changeCheck(task) {
                 task.isComplete = !task.isComplete
             },
