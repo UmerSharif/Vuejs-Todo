@@ -2,7 +2,6 @@
   <div id="app">
    <HelloWorld></HelloWorld>
     <router-view/>
-    <h3>Created and Designed By @Umer Khan</h3>
   </div>
 </template>
 <script>
